@@ -1,11 +1,10 @@
 import React from 'react';
-import Layout from './hoc/Layout/index'
+import Layout from './hoc/Layout'
 
 function App() {
   return (
     <div >
-      hell
-      <Layout />
+      <Layout>Hello Ivan</Layout>
     </div>
   );
 }

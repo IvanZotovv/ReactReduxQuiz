@@ -1,0 +1,11 @@
+.main-secition {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.main-block {
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+}

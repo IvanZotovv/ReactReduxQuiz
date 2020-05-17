@@ -1,10 +1,11 @@
 import React from 'react';
-import './App.css';
+import Layout from './hoc/Layout/index'
 
 function App() {
   return (
-    <div className="App">
-      hello
+    <div >
+      hell
+      <Layout />
     </div>
   );
 }
